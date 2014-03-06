@@ -1,5 +1,5 @@
 require "registrar/version"
+require "registrar/registration"
 
 module Registrar
-  # Your code goes here...
 end
